@@ -1,4 +1,4 @@
-# Chotu
+# chotu 🛠️
 chotu helps me automate some of my daily tasks. It is a collection of fish scripts that I use to help me do my repeated work faster. 
 
 ## Activities 
